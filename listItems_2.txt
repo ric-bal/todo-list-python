@@ -1,0 +1,18 @@
+Rework animation system
+True
+True
+Enemy hurt animation
+False
+False
+Player combat animations
+True
+False
+Enemy movement code
+True
+True
+Enemy  hurt code (+ knockback code)
+True
+False
+Implement more player attacks
+False
+True
